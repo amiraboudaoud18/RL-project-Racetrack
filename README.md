@@ -3,7 +3,7 @@ A continuous control task involving lane-keeping and obstacle avoidance.
 # Autonomous Driving on a Racetrack with Reinforcement Learning
 
 <p align="center">
-  <img src="assets/highway_env.gif" alt="HighwayEnv simulation – the ego vehicle (green) driving among other vehicles (blue)" width="600">
+  <img src="highway_env.gif" alt="HighwayEnv simulation – the ego vehicle (green) driving among other vehicles (blue)" width="600">
 </p>
 
 Training an autonomous agent to drive on a racetrack, keeping its lane and avoiding other vehicles, using deep reinforcement learning on the [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) `racetrack-v0` environment.
